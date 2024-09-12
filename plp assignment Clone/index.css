@@ -183,6 +183,7 @@ section p{
 @media screen and (max-width: 1200px) {
     .gate {   
       text-align: center;
+        width: 100%
     }
 
     #same{
