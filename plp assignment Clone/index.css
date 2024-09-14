@@ -180,17 +180,26 @@ section p{
     }
 }
 
+@media screen and (max-width: 500px) {
+    .gate {   
+      width: 100%;
+    }
+
+}
+
 @media screen and (max-width: 1200px) {
     .gate {   
       text-align: center;
-        width: 100%
     }
 
     #same{
         font-size: 80px;
     }
-  }
 
+    .pop{
+        text-align: center;
+    }
+  }
   #Contact p{
     background-color: rgb(46, 46, 46);
     border-radius: 20px;
